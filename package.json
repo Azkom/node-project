@@ -1,0 +1,19 @@
+{
+  "name": "demo-node-project",
+  "version": "0.1.0",
+  "description": "This is a Demo node project to demonstrate dockerization of it.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "demo"
+  ],
+  "author": "Azkom",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
